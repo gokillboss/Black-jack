@@ -22,26 +22,6 @@ The game includes advanced features like **4-deck shoe**, **discard pile display
 
 ---
 
-## **Project Structure**
-Blackjack/
-│
-├── main.py # Entry point
-├── blackjack_app.py # Main game logic
-│
-├── ui/ # UI Components
-│ ├── dealer_ui.py
-│ ├── player_ui.py
-│ ├── betting_ui.py
-│ ├── counting_ui.py
-│
-├── deck.py # Deck creation and card images
-├── game_logic.py # Game rules and scoring
-├── utils.py # Helper functions
-└── README.md # Project documentation
-
-
----
-
 ## **Requirements**
 - Python 3.8+
 - **Libraries:**
